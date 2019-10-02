@@ -17,7 +17,7 @@ if you feel like sharing your pub, please add it to [the informal registry of pu
   - [create `sbot` container](#create-sbot-container)
   - [setup auto-healer](#setup-auto-healer)
   - [ensure containers are always running](#ensure-containers-are-always-running)
-  - [(optional) add `ssb-viewer` plugin](#optional-add-ssb-viewer)
+  - [(optional) add `ssb-viewer` plugin](#optional-add-ssb-viewer-plugin)
 - [kubernetes setup](#kubernetes-setup)
 - [command and control](#command-and-control)
   - [create invites](#create-invites)
